@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8mt46QQsQy4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kennan Cotter\\Documents\\Projects\\LibraryManager\\Library Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kennan Cotter\\.nuget\\packages\\pastel\\7.0.1\\pastel.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

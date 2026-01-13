@@ -1,0 +1,34 @@
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\bin\Debug\net8.0\LibraryManager.exe
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\bin\Debug\net8.0\LibraryManager.deps.json
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\bin\Debug\net8.0\LibraryManager.runtimeconfig.json
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\bin\Debug\net8.0\LibraryManager.dll
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\bin\Debug\net8.0\LibraryManager.pdb
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\bin\Debug\net8.0\Pastel.dll
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\obj\Debug\net8.0\Library Manager.csproj.AssemblyReference.cache
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\obj\Debug\net8.0\Library Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\obj\Debug\net8.0\Library Manager.AssemblyInfoInputs.cache
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\obj\Debug\net8.0\Library Manager.AssemblyInfo.cs
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\obj\Debug\net8.0\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\obj\Debug\net8.0\Library .56B8D086.Up2Date
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\obj\Debug\net8.0\LibraryManager.dll
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\obj\Debug\net8.0\refint\LibraryManager.dll
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\obj\Debug\net8.0\LibraryManager.pdb
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\obj\Debug\net8.0\Library Manager.genruntimeconfig.cache
+C:\Users\Kennan Cotter\Documents\Projects\Test Project\obj\Debug\net8.0\ref\LibraryManager.dll
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\bin\Debug\net8.0\LibraryManager.exe
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\bin\Debug\net8.0\LibraryManager.deps.json
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\bin\Debug\net8.0\LibraryManager.runtimeconfig.json
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\bin\Debug\net8.0\LibraryManager.dll
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\bin\Debug\net8.0\LibraryManager.pdb
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\bin\Debug\net8.0\Pastel.dll
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\obj\Debug\net8.0\Library Manager.csproj.AssemblyReference.cache
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\obj\Debug\net8.0\Library Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\obj\Debug\net8.0\Library Manager.AssemblyInfoInputs.cache
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\obj\Debug\net8.0\Library Manager.AssemblyInfo.cs
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\obj\Debug\net8.0\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\obj\Debug\net8.0\Library .56B8D086.Up2Date
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\obj\Debug\net8.0\LibraryManager.dll
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\obj\Debug\net8.0\refint\LibraryManager.dll
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\obj\Debug\net8.0\LibraryManager.pdb
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\obj\Debug\net8.0\Library Manager.genruntimeconfig.cache
+C:\Users\Kennan Cotter\Documents\Projects\LibraryManager\obj\Debug\net8.0\ref\LibraryManager.dll
